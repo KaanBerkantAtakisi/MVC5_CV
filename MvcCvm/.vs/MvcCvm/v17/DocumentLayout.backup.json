@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|c:\\users\\kaan\\desktop\\udemy projeler\\mvccvm\\mvccvm\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|solutionrelative:mvccvm\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|c:\\users\\kaan\\desktop\\udemy projeler\\mvccvm\\mvccvm\\views\\admin\\adminduzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|solutionrelative:mvccvm\\views\\admin\\adminduzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|c:\\users\\kaan\\desktop\\udemy projeler\\mvccvm\\mvccvm\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|solutionrelative:mvccvm\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|c:\\users\\kaan\\desktop\\udemy projeler\\mvccvm\\mvccvm\\views\\admin\\adminekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|solutionrelative:mvccvm\\views\\admin\\adminekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDuzenle.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Views\\Admin\\AdminDuzenle.cshtml",
+              "RelativeDocumentMoniker": "MvcCvm\\Views\\Admin\\AdminDuzenle.cshtml",
+              "ToolTip": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Views\\Admin\\AdminDuzenle.cshtml",
+              "RelativeToolTip": "MvcCvm\\Views\\Admin\\AdminDuzenle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T10:45:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Views\\Admin\\AdminEkle.cshtml",
+              "RelativeDocumentMoniker": "MvcCvm\\Views\\Admin\\AdminEkle.cshtml",
+              "ToolTip": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Views\\Admin\\AdminEkle.cshtml",
+              "RelativeToolTip": "MvcCvm\\Views\\Admin\\AdminEkle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T10:37:11.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCvm\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "MvcCvm\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T09:31:52.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MvcCvm\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MvcCvm\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:24:00.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

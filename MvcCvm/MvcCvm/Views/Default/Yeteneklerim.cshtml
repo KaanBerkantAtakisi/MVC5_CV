@@ -1,0 +1,32 @@
+﻿@using MvcCvm.Models.Entity
+@model List<TblYeteneklerim>
+
+<div class="resume-section-content">
+    <h2 class="mb-5">YETENEKLERİM</h2>
+    <div class="subheading mb-3">Programlama Dilleri & Araçlar</div>
+    <ul class="list-inline dev-icons">
+        @*<li class="list-inline-item"><i class="fab fa-html5"></i></li>
+        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
+        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
+        <li class="list-inline-item"><i class="fab fa-angular"></i></li>*@
+        @*<li class="list-inline-item"><i class="fab fa-sass"></i></li>*@
+        
+        <li class="list-inline-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"></li>
+        <li class="list-inline-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"></li>
+        <li class="list-inline-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" width="40"></li>
+        <li class="list-inline-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40"></li>
+        <li class="list-inline-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"></li>
+        <li class="list-inline-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40"></li>
+        <li class="list-inline-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"></li>
+    </ul>
+    <div class="subheading mb-3">Becerilerim</div>
+    <ul class="fa-ul mb-0">
+        @foreach (var x in Model)
+        {
+        <li>
+            <span class="fa-li"><i class="fas fa-check"></i></span>
+            @x.Yetenek
+        </li>   
+        }
+    </ul>
+</div>

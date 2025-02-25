@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|c:\\users\\kaan\\desktop\\udemy projeler\\mvccvm\\mvccvm\\views\\sertifika\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9344287-1949-4F14-A22B-2D7D89D8700C}|MvcCvm\\MvcCvm.csproj|solutionrelative:mvccvm\\views\\sertifika\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Views\\Sertifika\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCvm\\Views\\Sertifika\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kaan\\Desktop\\Udemy Projeler\\MvcCvm\\MvcCvm\\Views\\Sertifika\\Index.cshtml",
+              "RelativeToolTip": "MvcCvm\\Views\\Sertifika\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T13:55:48.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
