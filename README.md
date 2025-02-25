@@ -43,6 +43,21 @@ Bu proje, Murat Yücedağ'ın hazırladığı Mvc5 ile Sıfırdan Admin Panelli 
 
    ## Projeye ait bazı görseller
    
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/Hakkimdacv.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/EgitimCv.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/Sertifikalarimcv.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/Yetenekcv.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/ilgialanlarimcv.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/iletisimcv.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/iletisimsayfam.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/login.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/sosyalmedyaekleme.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/yeteneksayfasi.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/egitimbilgisiekle.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/hobiduzenle.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/deneyimsayfasi.png)
+   ![image alt](https://github.com/KaanBerkantAtakisi/MVC5_CV/blob/dffdfd442cc87547d2ef322ea7c9a97f9bed2cac/Photos/adminekleme.png)
+
    
   
   
